@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <div>
-
       <Logo />
       <h1 class="title">
         Łódzkie Alpaki
@@ -26,7 +25,22 @@ export default {}
   align-items: center;
   text-align: center;
 }
-
+@media (max-width: 992px){
+  .title{
+    font-size: 50px;
+  }
+  .subtitle{
+    font-size: 20px;
+  }
+}
+@media(min-width: 993px){
+  .title{
+    font-size: 100px;
+  }
+  .subtitle{
+    font-size: 42px;
+  }
+}
 .title {
   font-family:
     'Quicksand',
@@ -40,14 +54,12 @@ export default {}
     sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
   color: #35495e;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
