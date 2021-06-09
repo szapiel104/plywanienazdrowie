@@ -1,0 +1,11 @@
+.text-decoration-none{
+  text-decoration: none;
+}
+
+a{
+  &:hover{
+    p,span{
+      color: #dfb5a6;
+    }
+  }
+}
