@@ -1,5 +1,6 @@
 <template>
-  <div class="container">
+  <div class="container mt-4">
+    <h1>Harmonogram</h1>
   </div>
 </template>
 
@@ -7,7 +8,7 @@
 export default {
   head() {
     return {
-      title: 'Pływanie na zdrowie',
+      title: 'Harmonogram - Pływanie na zdrowie',
       meta: [
         {charset: 'utf-8'},
         {name: 'viewport', content: 'width=device-width, initial-scale=1'},
