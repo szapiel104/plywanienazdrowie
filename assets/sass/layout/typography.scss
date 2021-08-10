@@ -1,11 +1,28 @@
 .text-decoration-none{
   text-decoration: none;
 }
-
 a{
   &:hover{
     p,span{
       color: #dfb5a6;
     }
+  }
+}
+h1{
+  font-size: 2.2rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #363d47;
+  @media(max-width: 992px){
+    font-size: 1.4rem;
+  }
+}
+.content-text{
+  font-size: 1.15rem;
+  color: #69707a;
+  @media(max-width: 992px){
+    font-size: .9rem;
   }
 }

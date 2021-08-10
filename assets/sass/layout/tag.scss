@@ -1,0 +1,39 @@
+.a-link-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 10px 12px;
+  border-radius: 7px;
+
+  &.normal {
+    background-color: #a9d6d1;
+    border-color: #a9d6d1;
+
+    &:hover, &:active {
+      background-color: #7ce2d6 !important;
+      border-color: #7ce2d6 !important;
+
+      span, svg {
+        color: #fff !important;
+      }
+    }
+
+  }
+
+  &.white {
+    background: white;
+    color: #7c7c8a;
+    border: 1px solid #7c7c8a;
+
+    &:hover, &:active {
+      background-color: #f5f5f5 !important;
+      border-color: #f5f5f5 !important;
+
+      span, svg {
+        color: #000 !important;
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 <template>
   <div class="container mt-4">
-    <h1>Harmonogram</h1>
+    <iframe src="https://calendar.google.com/calendar/embed?src=ic0kf4b5c66lb0aa8c3fq9ha90%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
   </div>
 </template>
 
