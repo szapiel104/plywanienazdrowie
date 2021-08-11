@@ -1,11 +1,15 @@
 <template>
-  <div class="container mt-4">
-    <h1>O nas</h1>
+  <div class="container my-5">
+    <Lorem />
   </div>
 </template>
 
 <script>
+import Lorem from '@/components/Lorem';
 export default {
+  components: {
+    Lorem,
+  },
   head() {
     return {
       title: 'O nas - Pływanie na zdrowie',

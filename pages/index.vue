@@ -28,6 +28,11 @@
         <img src="~assets/img/erik-dungan-lNUi7W4iwok-unsplash.jpg" alt="" class="img-fluid" style="border-radius: 10px">
       </div>
     </div>
+    <p class="my-5">W trakcie pracy ... </p>
+    <p class="my-5">W trakcie pracy ... </p>
+    <p class="my-5">W trakcie pracy ... </p>
+    <p class="my-5">W trakcie pracy ... </p>
+    <p class="my-5">W trakcie pracy ... </p>
   </div>
 </template>
 
