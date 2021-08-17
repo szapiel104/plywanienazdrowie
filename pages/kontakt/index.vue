@@ -5,25 +5,19 @@
 
       <div class="col-12 col-md-7 col-lg-push-3">
         <iframe
-          src="https://docs.google.com/forms/d/e/1FAIpQLSeDeZspXaX1OeNAQsvoTBJ2JizdYQ2-vfSJgG5NsI0fQucIeA/viewform?embedded=true"
-          width="100%" height="1150" frameborder="0" marginheight="0" marginwidth="0">Ładuję…
+          src="https://docs.google.com/forms/d/e/1FAIpQLSfE2fIWf6FdqT5UbOLFKXxBUiyUutjVCbYaQtATDN-R6suSYg/viewform?embedded=true"
+          width="100%" height="1050" frameborder="0" marginheight="0" marginwidth="0">Ładuję…
         </iframe>
       </div>
       <div class="col-12 col-md-5 mt-5 mb-5 col-lg-pull-9">
         <b-card>
-          Jeżeli masz jakieś pytanie, skontaktu się z nami. Postaramy się odpowiedzieć jak najszybciej!
+          Wpływaj z nami na zdrowie!
         </b-card>
         <b-card class="mt-5">
-          <b>plywanienazdrowie.pl</b>
-          <br/>
-          ul. Polna 0
-          <br/>
-          00-000 Łódź
+          <b>Telefon</b><br/> +48 507 605 305
           <br/>
           <br/>
-          Tel: 42 000 00 00
-          <br/>
-          E-mail: kontakt@plywanienazdrowie.pl
+          <b>E-mail</b><br/> balance.adachmielecka@gmail.com
         </b-card>
       </div>
     </div>

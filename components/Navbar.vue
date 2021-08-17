@@ -13,6 +13,8 @@
             <b-nav-item class="a-link-menu" to="/">Strona główna</b-nav-item>
             <b-nav-item class="a-link-menu" to="/o-nas">O nas</b-nav-item>
             <b-nav-item class="a-link-menu" to="/kontakt">Kontakt</b-nav-item>
+            <b-nav-item class="a-link-menu" to="">Oferta</b-nav-item>
+            <b-nav-item class="a-link-menu" to="">Nasze zajęcia</b-nav-item>
             <b-button size="sm" class="my-5 my-lg-2 ml-lg-5 a-link-btn normal" type="primary" variant="primary"
                       to="/harmonogram">
               <span class="mr-1">Harmonogram</span>
