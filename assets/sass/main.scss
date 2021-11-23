@@ -4,3 +4,12 @@
 @import "layout/tag";
 
 
+.main-picture {
+  border-radius: 10px;
+  max-height: 350px;
+  object-fit: cover;
+  width: 100%;
+  @media(min-width: 992px){
+    object-position: 0 -30px;
+  }
+}
